@@ -1,0 +1,6 @@
+# Python notebook checkpoint
+.ipynb_checkpoints/
+
+# Binaries
+bench
+measure
